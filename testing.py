@@ -12,4 +12,5 @@ p = Person("Qazi Arsalan",20)
 name,age= p.get_person_details()
 print(f"{name} : {age}")
 
-# i have read your code ... !! Great going
+
+# okay checked it
