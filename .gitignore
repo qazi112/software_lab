@@ -1,3 +1,4 @@
 *.dat
 !a.dat
 results/plots/
+log_*
