@@ -11,5 +11,5 @@ class Person():
 p = Person("Qazi Arsalan",20)
 name,age= p.get_person_details()
 print(f"{name} : {age}")
-
+print(f"Name is : {name} and Age is : {age}"
 # i have read your code ... !! Great going
